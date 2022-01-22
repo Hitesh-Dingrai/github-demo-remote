@@ -1,24 +1,19 @@
 
 #add
 def add(x,y):
-     return x+y
+     pass
      
      
 #subtract
 def subtract(x,y):
-     return x-y
+    pass
  #divide    
 def divide(x,y):
 
-     if y=0:
-        return divide_by_0_error
-     else:
-        return x/y
+     pass
 
  
 #multiply
 def multiply(x,y):
-     return x-y
+     pass
      
-def square(x):
-    pass
