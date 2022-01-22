@@ -6,7 +6,7 @@ def add(x,y):
      
 #subtract
 def subtract(x,y):
-    pass
+    return x-y      #on remote
  #divide    
 def divide(x,y):
 
